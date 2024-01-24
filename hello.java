@@ -9,5 +9,6 @@ public class hello
         System.out.println("added one more file");
         student stud = new student();
         stud.sayHello();
+        System.out.println("AWS program run sucessfully\n");
     }
 }
